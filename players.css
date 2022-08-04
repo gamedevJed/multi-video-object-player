@@ -1,0 +1,18 @@
+/* Display horizontally, put a little space around them */
+.testimonial-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Add some padding around the container. Align text centrally */
+.testimonials {
+    padding: 45px 50px;
+    text-align: center;
+}
+
+/* Set margin and width */
+.testimonial {
+    margin: 0 30px;
+    text-align: center;
+    width: 800px;
+}
